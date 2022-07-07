@@ -278,7 +278,6 @@ body{
     margin-top: 8px;
     margin-bottom: 40px;
     padding: 24px 59px;
-    padding-left: auto; 
     background: var(--main-bg-color);
     -webkit-box-shadow: 0px 8px 8px #0000001a;
             box-shadow: 0px 8px 8px #0000001a;
